@@ -16,5 +16,7 @@ Put the links here
 
 Put the links here
 # 2. Code Preparation
+First download the English datasets to the ./EnglishDataset/ directory, and download the Turkish datasets to the ./TurkishDataset/ directory
 
 # 3. Code Running
+Run the code cell step by step
