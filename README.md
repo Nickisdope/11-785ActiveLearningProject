@@ -10,11 +10,12 @@
 # 1. Datasets
 1. English Datasets:
 
-Put the links here
+https://drive.google.com/drive/folders/1NjCtBvOKRjCiVbmEWKmqhHiweW5NdhtH?usp=sharing
 
 2. Turkish Datasets:
 
-Put the links here
+https://drive.google.com/drive/folders/1HK_NeTg_PN7iRwl73O9RD8xUVBUhUjda?usp=sharing
+
 # 2. Code Preparation
 * Download the English datasets to the ./EnglishDataset/ directory
 * Download the Turkish datasets to the ./TurkishDataset/ directory
